@@ -18,8 +18,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, welcome to my website. I'm a Masters student at Johns Hopkins Bioinformatics program and an engineer within the [PEARL](https://pearlhivmodel.org/index.html) lab where I work with an amazing team of epidemiologists and public health scientists to model HIV populations based on Agent Based Simulations.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I've been lucky in my life to have experienced a number of different professions, and academic disciplines. I studied mathematics and economics as an undergraduate, computer science, biology, and chemistry as a post baccalaureate, and now bioinformatics as a masters student. During my studies, I've been a data scientist, founded a company as a machine learning engineer, and run clinical trials as a medical researcher.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+With my varied background, I hope to have a unique perspective on the problems facing healthcare and the health sciences. I am an aspiring scientist, with broad interests across computational biology, neuroscience, personalized medicine, clinical informatics.
+
+I hope that this site can serve as a guide for those that wish to follow the path that I am on, as well as a place to share ideas and learn from one other. Read posts from my [blog](kreid415.github.io/blog), review my [publications](kreid415.github.io/publications), check out the [repositories](kreid415.github.io/repositories) that I contribute to, follow my [projects](kreid415.github.io/projects), or learn about the [people](kreid415.github.io/people) that have helped me get to where I am today.

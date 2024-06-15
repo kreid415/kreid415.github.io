@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Kendall_Reid_CV.pdf
+description: It's been a long journey to academia, with many stops along the way. Take a look at the experiences I've had that influence my research today.
 toc:
   sidebar: left
 ---

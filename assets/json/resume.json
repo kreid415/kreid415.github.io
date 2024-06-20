@@ -40,7 +40,7 @@
     {
       "name": "Bone Health Clinic, Children's National Hospital",
       "position": "Clinical Researcher",
-      "url": "",
+      "url": "https://www.childrensnational.org/get-care/departments/bone-health-program",
       "startDate": "2022-05",
       "endDate": "2024-06",
       "summary": "TODO",
@@ -119,7 +119,7 @@
       "title": "Henry Rutgers Scholar Award for outstanding research paper",
       "date": "2017-06",
       "awarder": "Rutgers University",
-      "url": "",
+      "url": "https://www.econ.rutgers.edu/academics/undergraduate/undergraduate-awards/237-previous-years/1048-henry-rutgers-scholar-awards-for-previous-years",
       "summary": "Awarded to select graduating seniors based on research excellence'"
     },
     {
@@ -226,15 +226,29 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Computational Neuroscience",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Connectomics",
+        "Mental Health Disorders"
+      ]
+    },
+    {
+      "name": "Bioinformatics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Personalized Medicine"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Machine Learning",
+        "Deep Learning",
+        "Graph Neural Networks",
+        "Bayesian Deep Learning",
+        "Probabilistic Methods"
       ]
     }
   ],

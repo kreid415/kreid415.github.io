@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Kendall A. Reid",
-    "label": "Masters Student and PEARL Lab Software Engineer",
+    "label": "Masters Student and PEARL Lab Software Engineer at JHU",
     "image": "prof_pic.jpg",
     "email": "kreid20@jh.edu",
     "phone": "",
@@ -34,8 +34,8 @@
       "url": "https://pearlhivmodel.org/index.html",
       "startDate": "2024-06",
       "endDate": "current",
-      "summary": "Lead implementation of HIV population agent based simulations based on Epidemiologist and Health scientist specifications",
-      "highlights": ["Agent Based Simulation"]
+      "summary": "Lead Engineer on HIV population agent based simulations.",
+      "highlights": ["Agent Based Simulation", "Computational Parralelization"]
     },
     {
       "name": "Bone Health Clinic, Children's National Hospital",
@@ -43,16 +43,16 @@
       "url": "https://www.childrensnational.org/get-care/departments/bone-health-program",
       "startDate": "2022-05",
       "endDate": "2024-06",
-      "summary": "TODO",
-      "highlights": ["TODO"]
+      "summary": "Served as the assistant researcher to one of the worlds foremost experts in bone health and ultra rare bone disorders",
+      "highlights": ["Osteogenesis Imperfecta", "Cutaneous Skeletal Hypophosphatemia Syndrome", "Longitudinal Studies", "Clinical Drug Studies"]
     },{
       "name": "Productivity Industries",
       "position": "Data Scientist and Machine Learning Engineer",
       "url": "https://productivityindustries.com/",
       "startDate": "2019-01",
       "endDate": "2021-01",
-      "summary": "TODO",
-      "highlights": ["TODO"]
+      "summary": "Founding member and lead data scientist, implemented state of the art algorithm for parsing the content of unstructured documents that surpassed industry and academic benchmarks",
+      "highlights": ["Computer Vision", "Document Intelligence", "Deep Learning"]
     },
     {
       "name": "Iunu",
@@ -60,8 +60,8 @@
       "url": "https://iunu.com/",
       "startDate": "2017-06",
       "endDate": "2018-06",
-      "summary": "TODO",
-      "highlights": ["TODO"]
+      "summary": "First Data Scientist at a small company. Built the team up to 6 data scientists and engineers and shipped numerous high quality image analysis pipelines",
+      "highlights": ["Precision Agriculture", "Computer Vision", "Deep Learning", "Data Pipelining"]
     }
   ],
   "education": [
@@ -198,6 +198,8 @@
         "data processing and pipelining",
         "git",
         "github actions",
+        "Bootstrap",
+        "Dask",
         "Linux",
         "Docker",
         "AWS",

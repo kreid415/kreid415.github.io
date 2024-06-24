@@ -24,4 +24,4 @@ I've been lucky in my life to have experienced a number of different professions
 
 With my varied background, I hope to have a unique perspective on the problems facing healthcare and the health sciences. I am an aspiring scientist, with broad interests across computational neuroscience, bioinformatics, and artificial intelligence.
 
-I hope that this site can serve as a guide for those that wish to follow the path that I am on, as well as a place to share ideas and learn from one other. Read posts from my [blog](/blog), or check out the [repositories](/repositories) that I support to learn more about my work.
+I hope that this site can serve as a guide for those that wish to follow the path that I am on, as well as a place to share ideas and learn from another. Read posts from my [blog](/blog), or check out the [repositories](/repositories) that I support to learn more about my work.

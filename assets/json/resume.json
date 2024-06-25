@@ -6,7 +6,7 @@
     "email": "kreid20@jh.edu",
     "phone": "",
     "url": "kreid415.github.io",
-    "summary": "An aspiring computational biologist and neuroscientist",
+    "summary": "An aspiring neuroinfomaticist and bioinformaticist",
     "location": {
       "address": "",
       "postalCode": "",
@@ -35,7 +35,7 @@
       "startDate": "2024-06",
       "endDate": "current",
       "summary": "Lead Engineer on HIV population agent based simulations.",
-      "highlights": ["Agent Based Simulation", "Computational Parralelization"]
+      "highlights": ["Agent Based Simulation", "High-Performance Computation"]
     },
     {
       "name": "Bone Health Clinic, Children's National Hospital",

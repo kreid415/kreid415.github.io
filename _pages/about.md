@@ -24,6 +24,4 @@ I've been lucky in my life to have experienced a number of different professions
 
 With my varied background, I hope to have a unique perspective on the problems facing mental healthcare. I am an aspiring scientist, with broad interests across computational neuroscience, bioinformatics, and artificial intelligence, all with the aim of improving our understanding of mental health.
 
-I hope that this site can serve as a guide for those that wish to follow the path that I am on, as well as a place to share ideas and learn from another. Read posts from my [blog](/blog), or check out the [repositories](/repositories) that I support to learn more about my work.
-
-I'm commited to keeping my work freely available and paywall free. If you enjoy the work that I create, and wish to support my efforts, please consider donating to one of the charities listed in [advocacy](/advocacy).
+I'm commited to keeping my work freely available and open source. If you enjoy the work that I create, and wish to support my efforts, please consider donating to one of the charities listed in [advocacy](/advocacy).

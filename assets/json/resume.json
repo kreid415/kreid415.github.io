@@ -207,7 +207,9 @@
         "AWS",
         "Django",
         "Scrum",
-        "Kanban"
+        "Kanban",
+        "numpy",
+        "Pandas"
       ]
     },
     {

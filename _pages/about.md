@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, welcome to my website. I'm a Masters student at Johns Hopkins Bioinformatics program and an engineer within the [PEARL](https://pearlhivmodel.org/index.html) lab where I work with an amazing team of epidemiologists and public health scientists to model HIV populations based on Agent Based Simulations.
 
-I've been lucky in my life to have experienced a number of different professions, and academic disciplines. I studied mathematics and economics as an undergraduate, computer science, biology, and chemistry as a post baccalaureate, and now bioinformatics as a masters student. During my studies, I've been a data scientist, founded a company as a machine learning engineer, and run clinical trials as a medical researcher.
+I've been lucky in my life to have experienced a number of different professions, and academic disciplines. I studied mathematics and economics as an undergraduate, computer science, biology, and chemistry as a post baccalaureate, and now bioinformatics as a masters student. Professionally, I've been a data scientist, founded a company as a machine learning engineer, and run clinical trials as a medical researcher.
 
 With my varied background, I hope to have a unique perspective on the problems facing mental healthcare. I am an aspiring scientist, with broad interests across computational neuroscience, bioinformatics, and artificial intelligence, all with the aim of improving our understanding of mental health.
 

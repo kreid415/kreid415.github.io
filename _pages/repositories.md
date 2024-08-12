@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: repositories
 description: All of my development to date has been closed source, however I'm making it a point this year to contribute to the open source community. Check back in to see me go from zero to open source hero!
-nav: true
+nav: False
 nav_order: 4
 ---
 

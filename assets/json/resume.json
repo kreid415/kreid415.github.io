@@ -6,7 +6,7 @@
     "email": "kreid20@jh.edu",
     "phone": "",
     "url": "kreid415.github.io",
-    "summary": "An aspiring neuroinfomaticist and bioinformaticist",
+    "summary": "An aspiring neuroinformaticist and bioinformaticist",
     "location": {
       "address": "",
       "postalCode": "",
@@ -45,7 +45,8 @@
       "endDate": "2024-06",
       "summary": "Served as the assistant researcher to one of the worlds foremost experts in bone health and ultra rare bone disorders",
       "highlights": ["Osteogenesis Imperfecta", "Cutaneous Skeletal Hypophosphatemia Syndrome", "Longitudinal Studies", "Clinical Drug Studies"]
-    },{
+    },
+    {
       "name": "Productivity Industries",
       "position": "Data Scientist and Machine Learning Engineer",
       "url": "https://productivityindustries.com/",
@@ -85,7 +86,7 @@
       "startDate": "2021-09",
       "endDate": "2024-05",
       "score": "",
-      "courses": ["Gen Chem I & II", "Orgo I & II", "Physics I", "Cell Bio","Microbio", "Biochem"]
+      "courses": ["Gen Chem I & II", "Orgo I & II", "Physics I", "Cell Bio", "Microbio", "Biochem"]
     },
     {
       "institution": "Rutgers University",
@@ -107,11 +108,23 @@
       "startDate": "2013-09",
       "endDate": "2017-05",
       "score": "",
-      "courses": ["Linear Algebra", "Linear Optimization", "Cryptography", "Intro to CS",
-                  "Differential Equations", "Mathematical Methods for Data Mining", "Combinatoricss",
-                  "Number Theory", "Probability", "Real Analysis", "Cross Sectional Econometrics",
-                  "Time Series Econometrics", "Mathematical Reasoning", "Calc I, II, and III", "Micro and Macro Economics"
-                ]
+      "courses": [
+        "Linear Algebra",
+        "Linear Optimization",
+        "Cryptography",
+        "Intro to CS",
+        "Differential Equations",
+        "Mathematical Methods for Data Mining",
+        "Combinatoricss",
+        "Number Theory",
+        "Probability",
+        "Real Analysis",
+        "Cross Sectional Econometrics",
+        "Time Series Econometrics",
+        "Mathematical Reasoning",
+        "Calc I, II, and III",
+        "Micro and Macro Economics"
+      ]
     }
   ],
   "awards": [
@@ -137,8 +150,7 @@
       "summary": "Awarded to select graduating economics students based on achievement within the major"
     }
   ],
-  "certificates": [
-  ],
+  "certificates": [],
   "publications": [
     {
       "name": "Chapter 103: Corrective Orthopedic Surgery for those with Rare Bone Disease and Skeletal Deformities",
@@ -161,32 +173,19 @@
       "url": "",
       "summary": "A clinical study on the efficacy of Burosumab for treating CHSH"
     }
-    
   ],
   "skills": [
     {
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python", "Rust", "R", "SQL", "HTML", "CSS", "Javascript"
-      ]
+      "keywords": ["Python", "Rust", "R", "SQL", "HTML", "CSS", "Javascript"]
     },
     {
       "name": "Data Science",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Deep Learning",
-        "Computer Vision",
-        "Pytorch",
-        "Tensorflow",
-        "OpenCV",
-        "scikit-learn",
-        "numpy",
-        "pandas",
-        "matplotlib"
-      ]
+      "keywords": ["Deep Learning", "Computer Vision", "Pytorch", "Tensorflow", "OpenCV", "scikit-learn", "numpy", "pandas", "matplotlib"]
     },
     {
       "name": "Software Development",
@@ -209,11 +208,7 @@
       "name": "Research",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Grant Writing",
-        "Technical Writing",
-        "Literary Review and Mapping"
-      ]
+      "keywords": ["Grant Writing", "Technical Writing", "Literary Review and Mapping"]
     }
   ],
   "languages": [
@@ -227,30 +222,17 @@
     {
       "name": "Computational Neuroscience",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Connectomics",
-        "Mental Health Disorders",
-        "Simulation",
-        "Neural Imaging"
-      ]
+      "keywords": ["Connectomics", "Mental Health Disorders", "Simulation", "Neural Imaging"]
     },
     {
       "name": "Bioinformatics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Personalized Medicine"
-      ]
+      "keywords": ["Personalized Medicine"]
     },
     {
       "name": "Artificial Intelligence",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Machine Learning",
-        "Deep Learning",
-        "Graph Neural Networks",
-        "Bayesian Deep Learning",
-        "Probabilistic Methods"
-      ]
+      "keywords": ["Machine Learning", "Deep Learning", "Graph Neural Networks", "Bayesian Deep Learning", "Probabilistic Methods"]
     }
   ],
   "references": [
@@ -260,6 +242,5 @@
       "reference": "Children's National Hospital. Phone: (202) 997-1881. Email: ltosi@childrensnational.org"
     }
   ],
-  "projects": [
-  ]
+  "projects": []
 }

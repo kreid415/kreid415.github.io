@@ -9,4 +9,4 @@ nav_order: 6
 
 {% include figure.liquid loading="eager" path="assets/img/nami.jpg" class="img-fluid rounded z-depth-1" %}
 
-My research goasl focus on finding new ways to study mental health. If you would like to support my work, please consider donating to a mental health charity like [NAMI](https://www.nami.org/get-involved/donate-to-nami/).
+My research goals focus on finding new ways to study mental health. If you would like to support my work, please consider donating to a mental health charity like [NAMI](https://www.nami.org/get-involved/donate-to-nami/).

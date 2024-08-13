@@ -195,6 +195,8 @@
         "Cloud training and inference",
         "GPU acceleration",
         "data processing and pipelining",
+        "distributed and parallel computation",
+        "high power computation",
         "git",
         "github actions",
         "Dask",

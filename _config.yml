@@ -108,7 +108,7 @@ wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: https://pearlhivmodel.org/index.html # work page URL
 x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-zotero_username: kreid415 # your zotero username
+zotero_username: # your zotero username
 
 contact_note: >
   If you are interested in research collaboration, please do not hesistate to reach me via email.

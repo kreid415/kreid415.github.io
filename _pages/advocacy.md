@@ -3,7 +3,7 @@ layout: page
 title: advocacy
 permalink: /advocacy/
 subtitle: Support me by supporting others
-nav: true
+nav: False
 nav_order: 6
 ---
 

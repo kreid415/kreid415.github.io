@@ -185,17 +185,7 @@
       "name": "Data Science",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Deep Learning",
-        "Computer Vision",
-        "Pytorch",
-        "Tensorflow",
-        "OpenCV",
-        "scikit-learn",
-        "numpy",
-        "pandas",
-        "matplotlib"
-      ]
+      "keywords": ["Deep Learning", "Computer Vision", "Pytorch", "Tensorflow", "OpenCV", "scikit-learn", "numpy", "pandas", "matplotlib"]
     },
     {
       "name": "Software Development",
@@ -215,6 +205,8 @@
         "AWS",
         "Django",
         "SnakeMake",
+        "Nextflow",
+        "SLURM"
       ]
     },
     {

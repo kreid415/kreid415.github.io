@@ -20,13 +20,4 @@ social: true # includes social icons at the bottom of the page
 
 Hi, welcome to my website. I'm a Masters student at Johns Hopkins Bioinformatics program and an engineer within the [PEARL](https://pearlhivmodel.org/index.html) lab where I work with an amazing team of epidemiologists and public health scientists to model HIV populations based on Agent Based Simulations.
 
-I'm an aspiring neurogenomic scientist interested in the multi-omic study of the brain and genome.
-
-Research interests:
-
-- Neuroimaging
-- Genomics
-- Connectomics
-- Computational Drug Discovery
-- Neuroinformatics
-- Artifical Intelligence
+I'm an aspiring researcher in machine learning interpretability. I develop methods to probe biological deep learning models internal representations to learn how they are making predictions. This helps us ensure that our models align with our scientific goals and extract novel biological insights.

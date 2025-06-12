@@ -26,4 +26,4 @@ My personal research focuses on applying machine learning to genomic data. I'm i
 
 2. How do we learn patterns from omics data to model cellular states?
 
-3. How do we model cellular perturbations and how can we correct cellular trajectories to avoid disease states?
+3. How do we model cellular perturbations and how can we correct cellular trajectories to avoid disease?

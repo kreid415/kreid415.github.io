@@ -18,6 +18,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, welcome to my website. I'm a Masters student at Johns Hopkins Bioinformatics program and an engineer within the [PEARL](https://pearlhivmodel.org/index.html) lab where I work with an amazing team of epidemiologists and public health scientists to model HIV populations based on Agent Based Simulations.
+Hi, welcome to my website. I'm a Masters student at Johns Hopkins Bioinformatics program and a research engineer at Johns Hopkins University. My work is supported across a number of labs ranging from computational epidemiology to biostatistics and neuroscience.
 
-I'm an aspiring researcher in machine learning interpretability and disentanglement. I develop methods to probe biological deep learning models internal representations to learn how they are making predictions. This helps us ensure that our models align with our scientific goals and extract novel biological insights.
+My personal research focuses on applying machine learning to genomic data. I'm interested in the following questions:
+
+1. How do we effectively integrate omics data across modalities and experiments?
+
+2. How do we learn patterns from omics data to model cellular states?
+
+3. How do we model cellular perturbations and how can we correct cellular trajectories to avoid disease states?

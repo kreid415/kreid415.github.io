@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, welcome to my website. I'm a Masters student at Johns Hopkins Bioinformatics program and a research engineer at Johns Hopkins University. My work is supported across a number of labs ranging from computational epidemiology to biostatistics and neuroscience.
+Hi, welcome to my website. I'm a Masters student at Johns Hopkins Bioinformatics program and a research engineer at Johns Hopkins University. My work is supported across a number of labs ranging from [computational epidemiology](https://pearlhivmodel.org/contact.html#kendall-reid) to biostatistics and neuroscience.
 
 My personal research focuses on applying machine learning to genomic data. I'm interested in the following questions:
 

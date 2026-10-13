@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Kendall A. Reid",
-    "label": "Masters Student and PEARL Lab Software Engineer at JHU",
+    "label": "Ph.D. Student in Computer Science, Johns Hopkins University",
     "image": "prof_pic.jpg",
     "email": "kreid20@jh.edu",
     "phone": "",
     "url": "kreid415.github.io",
-    "summary": "BioML researcher interested in uncovering the underlying mechanisms of diseases through computational and statistical methods",
+    "summary": "I am interested in creating AI systems for scientific research in human genetics and genomics. Current models excel on well-defined problems but struggle when evidence is uncertain or contradictory. I aim to build systems that overcome these limitations, and to develop rigorous evaluations to ensure that their reasoning is transparent and conclusions can be trusted. By harnessing these models for human genetics, we can discover the mechanisms of disease and identify therapeutic targets.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -27,69 +27,25 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Bloomberg School of Public Policy, Johns Hopkins University",
-      "position": "PEARL Lab Software Engineer",
-      "url": "https://pearlhivmodel.org/index.html",
-      "startDate": "2024-06",
-      "endDate": "current",
-      "summary": "Lead Engineer on HIV population agent based simulations.",
-      "highlights": [
-        "Agent Based Simulation",
-        "High-Performance Computation"
-      ]
-    },
-    {
-      "name": "Bone Health Clinic, Children's National Hospital",
-      "position": "Clinical Researcher",
-      "url": "https://www.childrensnational.org/get-care/departments/bone-health-program",
-      "startDate": "2022-05",
-      "endDate": "2024-06",
-      "summary": "Served as the assistant researcher to one of the worlds foremost experts in bone health and ultra rare bone disorders",
-      "highlights": [
-        "Osteogenesis Imperfecta",
-        "Cutaneous Skeletal Hypophosphatemia Syndrome",
-        "Longitudinal Studies",
-        "Clinical Drug Studies"
-      ]
-    },
-    {
-      "name": "Productivity Industries",
-      "position": "Data Scientist and Machine Learning Engineer",
-      "url": "https://productivityindustries.com/",
-      "startDate": "2019-01",
-      "endDate": "2021-01",
-      "summary": "Founding member and lead data scientist, implemented state of the art algorithm for parsing the content of unstructured documents that surpassed industry and academic benchmarks",
-      "highlights": [
-        "Computer Vision",
-        "Document Intelligence",
-        "Deep Learning"
-      ]
-    },
-    {
-      "name": "Iunu",
-      "position": "Data Scientist",
-      "url": "https://iunu.com/",
-      "startDate": "2017-06",
-      "endDate": "2018-06",
-      "summary": "First Data Scientist at a small company. Built the team up to 6 data scientists and engineers and shipped numerous high quality image analysis pipelines",
-      "highlights": [
-        "Precision Agriculture",
-        "Computer Vision",
-        "Deep Learning",
-        "Data Pipelining"
-      ]
-    }
-  ],
   "education": [
+    {
+      "institution": "Johns Hopkins University",
+      "location": "Baltimore, MD",
+      "url": "",
+      "area": "Computer Science (Computational Biology). Advisor: Alexis Battle",
+      "studyType": "Ph.D.",
+      "startDate": "2026-09",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
     {
       "institution": "Johns Hopkins University",
       "location": "Baltimore, MD",
       "url": "https://advanced.jhu.edu/academics/graduate/ms-bioinformatics/",
       "area": "Bioinformatics",
-      "studyType": "Masters of Science",
-      "startDate": "2024-08",
+      "studyType": "M.S.",
+      "startDate": "2024-09",
       "endDate": "",
       "score": "",
       "courses": []
@@ -99,43 +55,31 @@
       "location": "College Park, MD",
       "url": "https://exst.umd.edu/professionals-and-post-baccalaureates/post-baccalaureate-programs/science-evening",
       "area": "Biology and Chemistry",
-      "studyType": "Post baccalaureate",
-      "startDate": "2021-09",
-      "endDate": "2024-05",
+      "studyType": "Post-baccalaureate",
+      "startDate": "2021",
+      "endDate": "2024",
       "score": "",
-      "courses": [
-        "Gen Chem I & II",
-        "Orgo I & II",
-        "Physics I",
-        "Cell Bio",
-        "Microbio",
-        "Biochem"
-      ]
+      "courses": ["Gen Chem I & II", "Orgo I & II", "Physics I", "Cell Bio", "Microbio", "Biochem"]
     },
     {
       "institution": "Rutgers University",
-      "location": "Rutgers, NJ",
+      "location": "New Brunswick, NJ",
       "url": "https://www.rutgers.edu/",
       "area": "Computer Science",
-      "studyType": "Post baccalaureate",
+      "studyType": "Post-baccalaureate",
       "startDate": "2018-09",
       "endDate": "2019-05",
       "score": "",
-      "courses": [
-        "Intro to CS",
-        "Data Structures",
-        "Intro to AI",
-        "Algorithms"
-      ]
+      "courses": ["Intro to CS", "Data Structures", "Intro to AI", "Algorithms"]
     },
     {
       "institution": "Rutgers University",
-      "location": "Rutgers, NJ",
+      "location": "New Brunswick, NJ",
       "url": "https://www.rutgers.edu/",
-      "area": "Mathematics and Economics",
-      "studyType": "Bachelors of Arts",
-      "startDate": "2013-09",
-      "endDate": "2017-05",
+      "area": "Mathematics and Economics, summa cum laude",
+      "studyType": "B.A.",
+      "startDate": "2013",
+      "endDate": "2017",
       "score": "",
       "courses": [
         "Linear Algebra",
@@ -144,7 +88,7 @@
         "Intro to CS",
         "Differential Equations",
         "Mathematical Methods for Data Mining",
-        "Combinatoricss",
+        "Combinatorics",
         "Number Theory",
         "Probability",
         "Real Analysis",
@@ -156,13 +100,145 @@
       ]
     }
   ],
+  "publications": [
+    {
+      "name": "Can we extract physics-like energies from generative protein diffusion models?",
+      "publisher": "PRX Life (American Physical Society), accepted, in press",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1101/2025.11.28.690021",
+      "summary": "S. Sarma, H. Truscott, D. Xu, K. A. Reid, L.-S. Chu, J. Chen, J. J. Gray"
+    },
+    {
+      "name": "Impact of an early body mass index maintenance intervention at ART initiation on diabetes risk: insights from a simulation study",
+      "publisher": "Annals of Epidemiology, accepted, in press",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1101/2025.11.05.25339607",
+      "summary": "P. Kasaie, Y. Zhao, E. Humes, L. Gerace, K. A. Reid, et al"
+    },
+    {
+      "name": "Burosumab treatment in an adult with FGF23-mediated hypophosphatemia due to cutaneous skeletal hypophosphatemia syndrome",
+      "publisher": "Journal of the Endocrine Society 10(4): bvag040, 2026",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.1210/jendso/bvag040",
+      "summary": "L. L. Tosi, E. N. Rajah, A. P. Gillies, M. Kim, K. A. Reid, R. I. Gafni"
+    },
+    {
+      "name": "Influence of sex and gender on musculoskeletal conditions and how they are reported",
+      "publisher": "Journal of Bone and Joint Surgery (American Volume) 106(16): 1512–1519, 2024",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.2106/JBJS.24.00194",
+      "summary": "L. L. Tosi, K. Templeton, A. M. Pennington, K. A. Reid, B. D. Boyan"
+    },
+    {
+      "name": "A blended genome-exome polygenic risk scoring of ketamine response in patients with drug-resistant depression",
+      "publisher": "Under review, JAMA Psychiatry, 2026",
+      "releaseDate": "2026",
+      "url": "",
+      "summary": "K. A. Reid, F. Goes"
+    },
+    {
+      "name": "Towards principled evaluation of single-cell perturbation prediction models",
+      "publisher": "bioRxiv, Jul. 27, 2026",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.64898/2026.07.23.740433",
+      "summary": "P. S. L. Schäfer, K. A. Reid, Z. Boldyga, E. D. Aksu, H. Hakem, and J. Saez-Rodriguez"
+    }
+  ],
+  "work": [
+    {
+      "name": "Johns Hopkins University, Biostatistics, and Neuroscience",
+      "position": "Senior Programmer Analyst",
+      "location": "Baltimore, MD",
+      "url": "",
+      "startDate": "2025-09",
+      "endDate": "2026-09",
+      "summary": "",
+      "highlights": [
+        "Designed and led a study of whether latent variable models isolate known gene programs in single-cell data. First author; manuscript in preparation.",
+        "Led the computational biology for a companion study applying latent variable models to amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD) to identify similarities and differences in disease pathology. Second author; manuscript in preparation."
+      ]
+    },
+    {
+      "name": "Johns Hopkins University, Department of Epidemiology",
+      "position": "Programmer Analyst",
+      "location": "Baltimore, MD",
+      "url": "https://pearlhivmodel.org/index.html",
+      "startDate": "2024-06",
+      "endDate": "2025-09",
+      "summary": "",
+      "highlights": [
+        "Developed an agent-based simulation library for HIV population dynamics using Dask.",
+        "Co-authored a study that used this library to forecast the effect of a BMI maintenance intervention on diabetes risk.",
+        "Led the interpretability analysis for a study of virologic failure in people with HIV, investigating whether a linear Cox model and a nonlinear deep survival network identified the same influential risk factors. Third author; manuscript in preparation."
+      ]
+    },
+    {
+      "name": "Johns Hopkins University",
+      "position": "M.S. Student, Bioinformatics",
+      "location": "Baltimore, MD",
+      "url": "",
+      "startDate": "2024-09",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Recruited a team of researchers from across the globe to investigate the discordance in metrics used to evaluate perturbation prediction models, resulting in a preprint. Second author; submission in progress.",
+        "Designed a controlled comparison of Wasserstein critics and discriminators for batch correction in single-cell data. First author; manuscript in preparation.",
+        "Showed that computing energies along a protein diffusion model's reverse diffusion trajectory with trapezoidal integration is a discrete realization of the Stratonovich integral, contributing to a publication on protein energies in diffusion models.",
+        "Built a blended genome-exome polygenic risk score for ketamine response in treatment-resistant depression, in collaboration with the Broad Institute. First author; under review."
+      ]
+    },
+    {
+      "name": "Children's National Medical Center",
+      "position": "Research Assistant, Orthopedic Surgery",
+      "location": "Washington, DC",
+      "url": "https://www.childrensnational.org/get-care/departments/bone-health-program",
+      "startDate": "2022-05",
+      "endDate": "2024-06",
+      "summary": "",
+      "highlights": ["Directed longitudinal data collection and managed industry-sponsored clinical trials for rare skeletal dysplasias."]
+    },
+    {
+      "name": "Productivity Industries",
+      "position": "Co-Founder; Data Scientist, Computer Vision and Natural Language Processing",
+      "location": "San Francisco, CA",
+      "url": "https://productivityindustries.com/",
+      "startDate": "2019-01",
+      "endDate": "2021-01",
+      "summary": "",
+      "highlights": [
+        "Built the company's document-parsing system: multimodal models combining computer vision and natural language processing to predict the reading order of unstructured text in PDF documents.",
+        "Built the continuous-integration infrastructure for training, evaluating, and deploying the models."
+      ]
+    },
+    {
+      "name": "Iunu",
+      "position": "Data Scientist, Computer Vision and Artificial Intelligence",
+      "location": "Seattle, WA",
+      "url": "https://iunu.com/",
+      "startDate": "2017-06",
+      "endDate": "2018-07",
+      "summary": "First Data Scientist at a small company. Built the team up to 6 data scientists and engineers.",
+      "highlights": [
+        "Built AI-based control systems for greenhouse temperature, water and light.",
+        "Developed a deep learning pipeline that measured plant material in multispectral images and predicted yield from image time series.",
+        "Trained convolutional networks to identify plant disease and alert growers prior to plant loss."
+      ]
+    }
+  ],
   "awards": [
+    {
+      "title": "Best Poster Award",
+      "date": "2025",
+      "awarder": "Johns Hopkins Research Symposium on Engineering in Healthcare",
+      "url": "",
+      "summary": ""
+    },
     {
       "title": "Henry Rutgers Scholar Award for outstanding research paper",
       "date": "2017-06",
       "awarder": "Rutgers University",
       "url": "https://www.econ.rutgers.edu/academics/undergraduate/undergraduate-awards/237-previous-years/1048-henry-rutgers-scholar-awards-for-previous-years",
-      "summary": "Awarded to select graduating seniors based on research excellence'"
+      "summary": "Awarded to select graduating seniors based on research excellence"
     },
     {
       "title": "John C. Daniels award for outstanding achievement in economics",
@@ -179,92 +255,26 @@
       "summary": "Awarded to select graduating economics students based on achievement within the major"
     }
   ],
-  "certificates": [],
-  "publications": [
-    {
-      "name": "Chapter 103: Corrective Orthopedic Surgery for those with Rare Bone Disease and Skeletal Deformities",
-      "publisher": "ASBMR Primer Section IX, Metabolic Bone Issues in Orthopedics",
-      "releaseDate": "",
-      "url": "",
-      "summary": "A survey of orthopedic surgeries for those with rare bone disease"
-    },
-    {
-      "name": "Influences of sex and gender on musculoskeletal conditions and how these are reported",
-      "publisher": "Journal of Bone and Joint Surgery",
-      "releaseDate": "",
-      "url": "",
-      "summary": "A comparison of sex and gender related differences on muscoloskeletal health"
-    },
-    {
-      "name": "Burosumab was safe and effective in a young adult with FGF23-mediated hypophosphatemia due to cutaneous skeletal hypophosphatemia syndrome (CSHS)",
-      "publisher": "Journal of Bone and Mineral Research",
-      "releaseDate": "",
-      "url": "",
-      "summary": "A clinical study on the efficacy of Burosumab for treating CHSH"
-    }
-  ],
   "skills": [
     {
-      "name": "Programming Languages",
-      "level": "Master",
+      "name": "Languages",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "Rust",
-        "R",
-        "SQL",
-        "HTML",
-        "CSS",
-        "Javascript"
-      ]
+      "keywords": ["Python", "SQL"]
     },
     {
-      "name": "Data Science",
-      "level": "Master",
+      "name": "Machine learning",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Deep Learning",
-        "Computer Vision",
-        "Pytorch",
-        "Tensorflow",
-        "OpenCV",
-        "scikit-learn",
-        "numpy",
-        "pandas",
-        "matplotlib"
-      ]
+      "keywords": ["PyTorch", "PyTorch Lightning", "TensorFlow", "Hugging Face", "scikit-learn", "OpenCV"]
     },
     {
-      "name": "Software Development",
-      "level": "Master",
+      "name": "Scientific computing",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Cloud training and inference",
-        "GPU acceleration",
-        "data processing and pipelining",
-        "distributed and parallel computation",
-        "high power computation",
-        "git",
-        "github actions",
-        "Dask",
-        "Linux",
-        "Docker",
-        "AWS",
-        "Django",
-        "SnakeMake",
-        "Nextflow",
-        "SLURM"
-      ]
+      "keywords": ["NumPy", "pandas", "Dask", "scverse", "matplotlib", "seaborn", "VCFtools"]
     },
     {
-      "name": "Research",
-      "level": "Master",
+      "name": "Infrastructure",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Grant Writing",
-        "Technical Writing",
-        "Literary Review and Mapping"
-      ]
+      "keywords": ["Linux", "Git", "Docker", "SLURM", "Snakemake", "Nextflow", "GitHub Actions", "pytest"]
     }
   ],
   "languages": [
@@ -274,42 +284,8 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Computational Neuroscience",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Connectomics",
-        "Mental Health Disorders",
-        "Simulation",
-        "Neural Imaging"
-      ]
-    },
-    {
-      "name": "Bioinformatics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Personalized Medicine"
-      ]
-    },
-    {
-      "name": "Artificial Intelligence",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Machine Learning",
-        "Deep Learning",
-        "Graph Neural Networks",
-        "Bayesian Deep Learning",
-        "Probabilistic Methods"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Laura L. Tosi, MD",
-      "icon": "fa-solid fa-stethoscope",
-      "reference": "Children's National Hospital. Phone: (202) 997-1881. Email: ltosi@childrensnational.org"
-    }
-  ],
+  "certificates": [],
+  "interests": [],
+  "references": [],
   "projects": []
 }

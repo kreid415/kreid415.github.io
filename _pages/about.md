@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: MS in Bioinformatics and Engineer for PEARL lab @ JHU
+subtitle: Ph.D. student in Computer Science at Johns Hopkins University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>7005 Bloomberg School of Public Health</p>
+    <p>Department of Computer Science</p>
     <p>Johns Hopkins University</p>
     <p>Baltimore, MD</p>
 
@@ -18,12 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, welcome to my website. I'm a Masters student at Johns Hopkins Bioinformatics program and a research engineer at Johns Hopkins University. My work is supported across a number of labs ranging from [computational epidemiology](https://pearlhivmodel.org/contact.html#kendall-reid) to biostatistics and neuroscience.
+Hi, welcome to my website. My Ph.D. advisor is [Alexis Battle](https://engineering.jhu.edu/faculty/alexis-battle/).
 
-My personal research focuses on applying machine learning to genomic data. I'm interested in the following questions:
+I am interested in creating AI systems for scientific research in human genetics and genomics. Current models excel on well-defined problems but struggle when evidence is uncertain or contradictory. I aim to build systems that overcome these limitations, and to develop rigorous evaluations to ensure that their reasoning is transparent and conclusions can be trusted. By harnessing these models for human genetics, we can discover the mechanisms of disease and identify therapeutic targets.
 
-1. How do we effectively integrate omics data across modalities and experiments?
-
-2. How do we learn patterns from omics data to model cellular states?
-
-3. How do we model cellular perturbations and how can we correct cellular trajectories to avoid disease?
+Before my Ph.D., I was a research engineer at Johns Hopkins, working in labs ranging from [computational epidemiology](https://pearlhivmodel.org/) to biostatistics and neuroscience. Before that, I was a data scientist in industry, working on computer vision and natural language processing.

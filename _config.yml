@@ -13,7 +13,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: bioinformatics, computer-science, neuroscience, deep-learning, graph-neural-networks, bayesian-methods # add your own keywords or leave empty
+keywords: human-genetics, genomics, computational-biology, machine-learning, ai-for-science, bayesian-methods # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: lil_brain.svg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -111,7 +111,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  If you are interested in research collaboration, please do not hesistate to reach me via email.
+  If you are interested in research collaboration, please do not hesitate to reach me via email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -306,7 +306,7 @@ display_categories: [] # these categories will be displayed on the front page of
 
 scholar:
   last_name: [Reid]
-  first_name: [Kendall, A.]
+  first_name: [Kendall, Kendall A.]
 
   style: apa
   locale: en

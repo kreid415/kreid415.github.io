@@ -5,7 +5,7 @@
     "image": "prof_pic.jpg",
     "email": "kreid20@jh.edu",
     "phone": "",
-    "url": "kreid415.github.io",
+    "url": "https://kreid415.github.io",
     "summary": "I am interested in creating AI systems for scientific research in human genetics and genomics. Current models excel on well-defined problems but struggle when evidence is uncertain or contradictory. I aim to build systems that overcome these limitations, and to develop rigorous evaluations to ensure that their reasoning is transparent and conclusions can be trusted. By harnessing these models for human genetics, we can discover the mechanisms of disease and identify therapeutic targets.",
     "location": {
       "address": "",

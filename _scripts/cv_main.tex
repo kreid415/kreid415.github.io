@@ -1,0 +1,265 @@
+
+%=======================================================================
+% Kendall Alexander Reid -- Curriculum Vitae  (v1)
+% Compiles with pdfLaTeX, XeLaTeX or LuaLaTeX (Overleaf default is fine).
+%=======================================================================
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[utf8]{inputenc}
+  \usepackage[T1]{fontenc}
+\fi
+\usepackage{libertine}
+\usepackage[top=0.5in,bottom=0.5in,left=0.6in,right=0.6in,headheight=14pt,headsep=10pt]{geometry}
+\usepackage{xcolor}
+\usepackage{framed}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{microtype}
+\usepackage{needspace}
+\usepackage[hidelinks]{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor={red!50!black},
+  citecolor={blue!50!black},
+  urlcolor={blue!35!black},
+  pdftitle={Kendall Alexander Reid -- Curriculum Vitae},
+  pdfauthor={Kendall Alexander Reid}
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small Kendall Reid, Curriculum Vitae}
+\fancyhead[R]{\small \thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+\raggedright
+\raggedbottom
+\setlength{\parindent}{0pt}
+
+\newlength{\outerbordwidth}
+\setlength{\outerbordwidth}{3pt}
+\definecolor{shadecolor}{gray}{0.75}
+\definecolor{shadecolorB}{gray}{0.93}
+\newcommand{\resheading}[1]{\needspace{8\baselineskip}\vspace{3pt}%
+  \parbox{\textwidth}{\setlength{\FrameSep}{\outerbordwidth}%
+    \begin{shaded}%
+      \setlength{\fboxsep}{0pt}\framebox[\textwidth][l]{\setlength{\fboxsep}{4pt}%
+      \fcolorbox{shadecolorB}{shadecolorB}{\textbf{\sffamily{\mbox{~}%
+      \makebox[\dimexpr\textwidth-14pt\relax][l]{\large #1}\vphantom{p\^{E}}}}}}%
+    \end{shaded}%
+  }\vspace{-8pt}
+}
+
+\newcommand{\entry}[4]{%
+  \needspace{5\baselineskip}\vspace{2pt}%
+  \textbf{#1}\hfill #2\\
+  \hspace*{1em}\emph{#3}\hfill \emph{#4}\par\vspace{1pt}
+}
+\newcommand{\edu}[4]{%
+  \vspace{1.5pt}%
+  \textbf{#1}\hfill #2\\
+  \hspace*{1em}#3\hfill #4\par
+}
+
+\newlist{tight}{itemize}{1}
+\setlist[tight]{leftmargin=1.4em,topsep=1pt,itemsep=1pt,parsep=0pt,label=\textbullet}
+
+\newlist{pubs}{enumerate}{1}
+\setlist[pubs]{leftmargin=1.6em,topsep=1pt,itemsep=2pt,parsep=0pt,label=\arabic*.}
+
+\newcommand{\me}{\textbf{K.~A.~Reid}}
+\newcommand{\subhead}[1]{\needspace{3\baselineskip}\vspace{3pt}\textit{\textbf{#1}}\par\vspace{-2pt}}
+
+\begin{document}
+
+\begin{center}
+{\LARGE\bfseries KENDALL ALEXANDER REID}\\[3pt]
+\href{mailto:kreid20@jh.edu}{kreid20@jh.edu} \enspace|\enspace (908)~967-0010 \enspace|\enspace
+\href{https://kreid415.github.io}{kreid415.github.io} \enspace|\enspace
+\href{https://github.com/kreid415}{github.com/kreid415} \enspace|\enspace
+\href{https://orcid.org/0000-0002-2105-6471}{ORCID 0000-0002-2105-6471}
+\end{center}
+\vspace{2pt}
+
+%=======================================================================
+\resheading{RESEARCH INTERESTS}
+%=======================================================================
+\par\vspace{4pt}\noindent
+I am interested in creating AI systems for scientific research in human genetics and genomics.
+Current models excel on well-defined problems but struggle when evidence is uncertain or
+contradictory. I aim to build systems that overcome these limitations, and to develop rigorous evaluations to ensure that their reasoning is transparent and  conclusions can be trusted. By harnessing these models for human genetics, we can discover the mechanisms of disease and identify therapeutic targets.
+
+%=======================================================================
+\resheading{EDUCATION}
+%=======================================================================
+\edu{Johns Hopkins University}{Baltimore, MD}
+    {Ph.D., Computer Science (Computational Biology). Advisor: Alexis Battle}{September 2026 -- expected 2030}
+\edu{Johns Hopkins University}{Baltimore, MD}
+    {M.S., Bioinformatics}{September 2024 -- present}
+\edu{University of Maryland}{College Park, MD}
+    {Post-baccalaureate, Biology and Chemistry}{2021 -- 2024}
+\edu{Rutgers University}{New Brunswick, NJ}
+    {B.A., Mathematics and Economics, \emph{summa cum laude}}{2013 -- 2017}
+\hspace*{1em}Thesis: \emph{A High-Frequency Methodology for Studying Sector Volatility Transmission}
+
+%=======================================================================
+\resheading{PUBLICATIONS}
+%=======================================================================
+
+\subhead{Peer-Reviewed Journal Articles}
+\begin{pubs}
+\item S.~Sarma, H.~Truscott, D.~Xu, \me, L.-S.~Chu, J.~Chen, J.~J. Gray.
+      ``Can we extract physics-like energies from generative protein diffusion models?''
+      \emph{PRX Life} (American Physical Society), accepted, in press.
+      Preprint: \href{https://doi.org/10.1101/2025.11.28.690021}{doi:10.1101/2025.11.28.690021}
+
+\item P.~Kasaie, Y.~Zhao, E.~Humes, L.~Gerace, \me, et al.
+      ``Impact of an early body mass index maintenance intervention at ART initiation on diabetes
+      risk: insights from a simulation study.'' \emph{Annals of Epidemiology}, accepted, in press.
+      Preprint: \href{https://doi.org/10.1101/2025.11.05.25339607}{doi:10.1101/2025.11.05.25339607}
+
+\item L.~L. Tosi, E.~N. Rajah, A.~P. Gillies, M.~Kim, \me, R.~I. Gafni.
+      ``Burosumab treatment in an adult with FGF23-mediated hypophosphatemia due to cutaneous
+      skeletal hypophosphatemia syndrome.''
+      \emph{Journal of the Endocrine Society} 10(4): bvag040, 2026.
+      \href{https://doi.org/10.1210/jendso/bvag040}{doi:10.1210/jendso/bvag040}
+
+\item L.~L. Tosi, K.~Templeton, A.~M. Pennington, \me, B.~D. Boyan.
+      ``Influence of sex and gender on musculoskeletal conditions and how they are reported.''
+      \emph{Journal of Bone and Joint Surgery (American Volume)} 106(16): 1512--1519, 2024.
+      \href{https://doi.org/10.2106/JBJS.24.00194}{doi:10.2106/JBJS.24.00194}
+\end{pubs}
+
+\subhead{Manuscripts Under Review}
+\begin{pubs}
+\item \me, F.~Goes.
+      ``A blended genome-exome polygenic risk scoring of ketamine response in patients with
+      drug-resistant depression.'' Under review, \emph{JAMA Psychiatry}, 2026.
+\end{pubs}
+
+\subhead{Preprint}
+\begin{pubs}
+    \item P. S. L. Schäfer, \me, Z. Boldyga, E. D. Aksu, H. Hakem, and J. Saez-Rodriguez, “Towards principled evaluation of single-cell perturbation prediction models,” bioRxiv, Jul. 27, 2026. doi: 10.64898/2026.07.23.740433.
+\end{pubs}
+
+%=======================================================================
+\resheading{RESEARCH EXPERIENCE}
+%=======================================================================
+
+\entry{Johns Hopkins University, Biostatistics, and Neuroscience}{Baltimore, MD}
+      {Senior Programmer Analyst}{September 2025 -- September 2026}
+\begin{tight}
+\item Designed and led a study of whether latent variable models isolate known gene programs in
+      single-cell data. First author; manuscript in preparation.
+\item Led the computational biology for a companion study applying latent variable models to amyotrophic lateral
+      sclerosis (ALS) and frontotemporal dementia (FTD) to identify similarities and differences in disease pathology. Second author; manuscript in preparation.
+\end{tight}
+
+\entry{Johns Hopkins University, Department of Epidemiology}{Baltimore, MD}
+      {Programmer Analyst}{June 2024 -- September 2025}
+\begin{tight}
+\item Developed an agent-based simulation library for HIV population dynamics using Dask.
+\item Co-authored a study that used this library to forecast the effect of a BMI maintenance
+      intervention on diabetes risk.
+\item Led the interpretability analysis for a study of virologic failure in people with HIV, investigating whether a linear Cox model and a nonlinear deep survival network identified the same
+      influential risk factors. Third author; manuscript in preparation.
+\end{tight}
+
+\entry{Johns Hopkins University}{Baltimore, MD}
+      {M.S. Student, Bioinformatics}{September 2024 -- present}
+\begin{tight}
+\item Recruited a team of researchers from across the globe to investigate the discordance in metrics used to evaluate perturbation prediction models, resulting in a preprint. Second author; submission in progress.
+\item Designed a controlled comparison of Wasserstein critics and discriminators
+      for batch correction in single-cell data. First author; manuscript in preparation.
+\item Showed that computing energies along a protein diffusion model's reverse diffusion trajectory
+      with trapezoidal integration is a discrete realization of the Stratonovich integral, contributing to a publication on protein energies in diffusion models.
+\item Built a blended genome-exome polygenic risk score for ketamine response in treatment-resistant
+      depression, in collaboration with the Broad Institute. First author; under review.
+\end{tight}
+
+\entry{Children's National Medical Center}{Washington, DC}
+      {Research Assistant, Orthopedic Surgery}{May 2022 -- June 2024}
+\begin{tight}
+\item Directed longitudinal data collection and managed industry-sponsored clinical trials for rare
+      skeletal dysplasias.
+\end{tight}
+
+%=======================================================================
+\resheading{INDUSTRY EXPERIENCE}
+%=======================================================================
+
+\entry{Productivity Industries}{San Francisco, CA}
+      {Co-Founder; Data Scientist, Computer Vision and Natural Language Processing}{January 2019 -- January 2021}
+\begin{tight}
+\item Built the company's document-parsing system: multimodal models combining
+      computer vision and natural language processing to predict the reading order of unstructured
+      text in PDF documents.
+\item Built the continuous-integration infrastructure for training, evaluating, and deploying the
+      models.
+\end{tight}
+
+\entry{Iunu}{Seattle, WA}
+      {Data Scientist, Computer Vision and Artificial Intelligence}{June 2017 -- July 2018}
+\begin{tight}
+\item Built AI-based control systems for greenhouse temperature, water and light.
+\item Developed a deep learning pipeline that measured plant material in multispectral images and predicted
+      yield from image time series.
+      
+\item Trained convolutional networks to identify plant disease and alert growers prior to plant loss.
+\end{tight}
+
+%=======================================================================
+\resheading{PRESENTATIONS}
+%=======================================================================
+\vspace{3pt}
+\begin{pubs}
+\item \me, M.~Brooks, Y.~Zhao, E.~Humes, Y.~Xu, K.~N. Althoff.
+      ``Do machine learning and traditional regression models identify the same influential risk
+      factors? A case study of virologic failure in people with HIV.''
+      9th Annual Johns Hopkins Research Symposium on Engineering in Healthcare, Baltimore, MD,
+      December 2025. \textbf{Best Poster Award.}
+
+\item H.~Giles, \me, G.~Stein-O'Brien. ``Biological disentanglement of ALS and FTD.''
+      26th Annual Packard Center ALS Research Symposium, Baltimore, MD, March 2026.
+
+\item K.~N. Althoff, P.~Kasaie, C.~Lesko, E.~Humes, \me, et al.
+      ``Weight maintenance at ART initiation and impact on subsequent diabetes risk: triangulating
+      inferences from two analytic approaches.''
+      ACTG Annual Network Meeting, Washington, DC, June 2026.
+\end{pubs}
+
+%=======================================================================
+\resheading{TEACHING AND MENTORING}
+%=======================================================================
+\vspace{3pt}
+\begin{tight}
+\item Co-mentored an M.S. Biostatistics thesis on generative modeling for single-cell data analysis
+      (with B.~Caffo); the student was subsequently admitted to a Ph.D. program at the University
+      of Chicago.
+\item Mentored medical students in computational analysis of SNP data, leading to national conference
+      presentations. Children's National Medical Center, 2022--2024.
+\end{tight}
+
+%=======================================================================
+\resheading{HONORS AND AWARDS}
+%=======================================================================
+\vspace{3pt}
+\begin{tight}
+\item Best Poster Award, Johns Hopkins Research Symposium on Engineering in Healthcare, 2025
+\item Henry Rutgers Scholar Award, for outstanding research paper, Rutgers University, 2017
+\item John C. Daniels Award, for outstanding achievement in economics, Rutgers University, 2017
+\item Milton Friedman Distinguished Scholar, Rutgers University, 2017
+\end{tight}
+
+%=======================================================================
+\resheading{TECHNICAL SKILLS}
+%=======================================================================
+\vspace{3pt}
+\textbf{Languages}\quad Python, SQL\\[2pt]
+\textbf{Machine learning}\quad PyTorch, PyTorch Lightning, TensorFlow, Hugging Face, scikit-learn, OpenCV\\[2pt]
+\textbf{Scientific computing}\quad NumPy, pandas, Dask, scverse, matplotlib, seaborn, VCFtools\\[2pt]
+\textbf{Infrastructure}\quad Linux, Git, Docker, SLURM, Snakemake, Nextflow, GitHub Actions, pytest
+
+\end{document}

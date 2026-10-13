@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: kreid415.github.io/sitemap.xml
+Sitemap: https://kreid415.github.io/sitemap.xml

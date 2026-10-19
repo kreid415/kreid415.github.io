@@ -32,7 +32,7 @@
       "institution": "Johns Hopkins University",
       "location": "Baltimore, MD",
       "url": "",
-      "area": "Computer Science (Computational Biology). Advisor: Alexis Battle",
+      "area": "Computer Science. Advisors: Alexis Battle and Brian Caffo",
       "studyType": "Ph.D.",
       "startDate": "2026-09",
       "endDate": "",
@@ -137,6 +137,13 @@
       "summary": "K. A. Reid, F. Goes"
     },
     {
+      "name": "Topology Matters: The Trade-off Between Wasserstein Critics and Discriminators in Single-Cell Data Integration",
+      "publisher": "bioRxiv, Nov. 13, 2025 (version 3, May 5, 2026)",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1101/2025.11.12.688061",
+      "summary": "K. A. Reid, G. Stein-O'Brien, and E. Guven"
+    },
+    {
       "name": "Towards principled evaluation of single-cell perturbation prediction models",
       "publisher": "bioRxiv, Jul. 27, 2026",
       "releaseDate": "2026",
@@ -167,7 +174,7 @@
       "endDate": "2025-09",
       "summary": "",
       "highlights": [
-        "Developed an agent-based simulation library for HIV population dynamics using Dask.",
+        "Contributed to an agent-based simulation library for HIV population dynamics using Dask.",
         "Co-authored a study that used this library to forecast the effect of a BMI maintenance intervention on diabetes risk.",
         "Led the interpretability analysis for a study of virologic failure in people with HIV, investigating whether a linear Cox model and a nonlinear deep survival network identified the same influential risk factors. Third author; manuscript in preparation."
       ]
@@ -182,20 +189,20 @@
       "summary": "",
       "highlights": [
         "Recruited a team of researchers from across the globe to investigate the discordance in metrics used to evaluate perturbation prediction models, resulting in a preprint. Second author; submission in progress.",
-        "Designed a controlled comparison of Wasserstein critics and discriminators for batch correction in single-cell data. First author; manuscript in preparation.",
-        "Showed that computing energies along a protein diffusion model's reverse diffusion trajectory with trapezoidal integration is a discrete realization of the Stratonovich integral, contributing to a publication on protein energies in diffusion models.",
+        "Designed a controlled comparison of Wasserstein critics and discriminators to study the tradeoff between removing batch effects and preserving biology in adversarial batch correction for single-cell data. First author; manuscript in preparation.",
+        "Identified that computing energies along a protein diffusion model's reverse diffusion trajectory with trapezoidal integration is a discrete realization of the Stratonovich integral, contributing to a publication on protein energies in diffusion models.",
         "Built a blended genome-exome polygenic risk score for ketamine response in treatment-resistant depression, in collaboration with the Broad Institute. First author; under review."
       ]
     },
     {
-      "name": "Children's National Medical Center",
+      "name": "Children's National Hospital",
       "position": "Research Assistant, Orthopedic Surgery",
       "location": "Washington, DC",
       "url": "https://www.childrensnational.org/get-care/departments/bone-health-program",
       "startDate": "2022-05",
       "endDate": "2024-06",
       "summary": "",
-      "highlights": ["Directed longitudinal data collection and managed industry-sponsored clinical trials for rare skeletal dysplasias."]
+      "highlights": ["Directed longitudinal data collection for an industry-sponsored clinical trial in a rare skeletal dysplasia."]
     },
     {
       "name": "Productivity Industries",
